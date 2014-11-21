@@ -1,0 +1,6 @@
+
+GITHUB
+  remote: fsprojects/FSharp.TypeProviders.StarterPack
+  specs:
+    src/ProvidedTypes.fs (cc0a598296d8cbb0b4ca88405b594959e5336c2b)
+    src/ProvidedTypes.fsi (cc0a598296d8cbb0b4ca88405b594959e5336c2b)
